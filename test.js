@@ -1,6 +1,6 @@
 // Just some javascript code to test
 
 function testGitHub(){
-alert('github is great')
+alert('github is great, and awesome')
 };
 
